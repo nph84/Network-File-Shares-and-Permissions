@@ -45,6 +45,17 @@ Log in to the client PC as a normal user.
 
 
 
+<p>
+On the domain controller PC on the C:\drive, create 4 folders: “read-access”, “write-access”, “no-access”, “accounting”
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/c99439c7-950f-479f-bdde-a11004418641" height="80%" width="80%" /> 
+</p>
+<br />
+
+
+
+
 
 
 
