@@ -57,7 +57,7 @@ On the domain controller PC on the C:\drive, create 4 folders: “read-access”
 
 
 <p>
-4.	Set the following permissions (share the folder)
+Set the following permissions (share the folder)
 a.	Folder: “read-access”, Group: “Domain Users”, Permission: “Read”
 b.	Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Write”
 c.	Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”
