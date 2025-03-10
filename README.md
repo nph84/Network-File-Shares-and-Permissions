@@ -46,7 +46,7 @@ Log in to the client PC as a normal user.
 
 
 <p>
-On the domain controller PC on the C:\drive, create 4 folders: “read-access”, “write-access”, “no-access”, “accounting”
+On the domain controller PC on the C:\drive, create 4 folders: “read-access”, “write-access”, “no-access”, “accounting”.
 </p> 
 <p>
 <img src="https://github.com/user-attachments/assets/c99439c7-950f-479f-bdde-a11004418641" height="80%" width="80%" /> 
@@ -81,7 +81,13 @@ Repeat these steps for the subsequent groups, setting the appropriate file permi
 **Attempt to access file shares as a normal user**
 
 
-
+<p>
+On client PC navigate to the shared folder.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/c99439c7-950f-479f-bdde-a11004418641" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 
