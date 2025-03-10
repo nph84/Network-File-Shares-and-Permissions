@@ -64,11 +64,11 @@ c.	Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/
 d.	(Skip accounting for now)
 </p> 
 <p>
-<img src="https://github.com/user-attachments/assets/72e79bda-210c-4e92-aa5c-b7a0e4f58c4e" height="80%" width="80%" /> 
-<img src="https://github.com/user-attachments/assets/3a4e825a-256d-4f38-adb7-bea738ae6e9b" height="80%" width="80%" /> 
+<img src="https://github.com/user-attachments/assets/72e79bda-210c-4e92-aa5c-b7a0e4f58c4e" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/3a4e825a-256d-4f38-adb7-bea738ae6e9b" height="80%" width="80%" />
 <img src="https://github.com/user-attachments/assets/f0167133-466d-4a59-bbbe-4c463d5059ca" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/373464e6-7623-4b2d-a2e0-0888dfa7f0d1" height="80%" width="80%" /> 
-<img src="https://github.com/user-attachments/assets/bb5cd244-9b2b-4da2-a48a-a741011f018c" height="80%" width="80%" /> 
+<img src="https://github.com/user-attachments/assets/373464e6-7623-4b2d-a2e0-0888dfa7f0d1" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/bb5cd244-9b2b-4da2-a48a-a741011f018c" height="80%" width="80%" />
  <br />
 
 Repeat these steps for the subsequent groups setting the appropriate file permissions.
