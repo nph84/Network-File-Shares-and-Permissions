@@ -71,24 +71,9 @@ d.	(Skip accounting for now)
 <img src="https://github.com/user-attachments/assets/bb5cd244-9b2b-4da2-a48a-a741011f018c" height="80%" width="80%" />
  <br />
 
-Repeat these steps for the subsequent groups setting the appropriate file permissions.
+Repeat these steps for the subsequent groups, setting the appropriate file permissions.
 </p>
 <br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
