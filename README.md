@@ -26,10 +26,11 @@ This tutorial outlines the steps required to change access permissions to networ
 
 **Create some sample file shares with various permissions**
 <p>
-After logging into both the domain controller PC and the client PC as the administrator, ping "mainframe" and observe the failure.
+Log into the domain controller PC as an administrator. Log into the client PC as a normal user.
 </p> 
 <p>
-<img src="https://github.com/user-attachments/assets/e57bbf2f-1ec7-4127-902c-4820cad98ffe" height="80%" width="80%" /> 
+<img src="" height="80%" width="80%" /> 
+<img src="" height="80%" width="80%" /> 
 </p>
 <br />
 
