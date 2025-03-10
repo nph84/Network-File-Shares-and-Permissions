@@ -26,13 +26,42 @@ This tutorial outlines the steps required to change access permissions to networ
 
 **Create some sample file shares with various permissions**
 <p>
-Log into the domain controller PC as an administrator. Log into the client PC as a normal user.
+Log in to the domain controller PC as an administrator.
 </p> 
 <p>
-<img src="" height="80%" width="80%" /> 
-<img src="" height="80%" width="80%" /> 
+<img src="https://github.com/user-attachments/assets/d8b104a2-39b5-482e-9fcb-c438b1a17c65" height="80%" width="80%" /> 
 </p>
 <br />
+
+
+<p>
+Log in to the client PC as a normal user.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/d86b619f-5499-4aa0-b18a-bfb979186a67" height="80%" width="80%" /> 
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
