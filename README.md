@@ -64,11 +64,11 @@ c.	Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/
 d.	(Skip accounting for now)
 </p> 
 <p>
-<img src="https://github.com/user-attachments/assets/72e79bda-210c-4e92-aa5c-b7a0e4f58c4e" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/3a4e825a-256d-4f38-adb7-bea738ae6e9b" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/f0167133-466d-4a59-bbbe-4c463d5059ca" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/373464e6-7623-4b2d-a2e0-0888dfa7f0d1" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/bb5cd244-9b2b-4da2-a48a-a741011f018c" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/72e79bda-210c-4e92-aa5c-b7a0e4f58c4e" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/3a4e825a-256d-4f38-adb7-bea738ae6e9b" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/f0167133-466d-4a59-bbbe-4c463d5059ca" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/373464e6-7623-4b2d-a2e0-0888dfa7f0d1" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/bb5cd244-9b2b-4da2-a48a-a741011f018c" height="80%" width="80%" /> <br /><br />
  <br />
 
 Repeat these steps for the subsequent groups, setting the appropriate file permissions.
@@ -82,23 +82,13 @@ Repeat these steps for the subsequent groups, setting the appropriate file permi
 
 
 <p>
-On client PC navigate to the shared folder.
+On the client PC navigate to the shared folder. At this point, we have read access to the "read-access" folder, read and write access to the "write-access" folder and no access to the "no-access" folder.
 </p> 
 <p>
 <img src="https://github.com/user-attachments/assets/3e97d621-7056-45ba-b72d-1213f8295c6a" height="80%" width="80%" /> 
 </p>
 <br />
 
-
-
-
-<p>
-Try to access the folders you just created. Which folders can you access? Which folders can you create stuff in? Does it make sense?
-</p> 
-<p>
-<img src="https://github.com/user-attachments/assets/3e97d621-7056-45ba-b72d-1213f8295c6a" height="80%" width="80%" /> 
-</p>
-<br />
 
 
 
@@ -109,16 +99,27 @@ Try to access the folders you just created. Which folders can you access? Which 
 Go back to the domain controller. In Active Directory, create a new organizational unit called "_GROUPS". Inside this new group, create a security group called “ACCOUNTANTS”
 </p> 
 <p>
-<img src="https://github.com/user-attachments/assets/15df9cac-93af-4f27-a3b9-8278f5ea67d7" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/ada366b1-f275-48c4-84a6-1086941ef5e3" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/35d490b5-bc11-42ad-a6d8-44d6a40af6d1" height="80%" width="80%" />
-<img src="https://github.com/user-attachments/assets/578ce676-f164-4a81-90f6-424486e2cea1" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/15df9cac-93af-4f27-a3b9-8278f5ea67d7" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/ada366b1-f275-48c4-84a6-1086941ef5e3" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/35d490b5-bc11-42ad-a6d8-44d6a40af6d1" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/578ce676-f164-4a81-90f6-424486e2cea1" height="80%" width="80%" /> <br /><br />
 </p>
 <br />
 
 
 
 
+<p>
+On the “accounting” folder that was created earlier, we will set the following permissions:
+Folder: “accounting”, Group: “ACCOUNTANTS”, Permissions: “Read/Write”
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/4f8afe93-4f63-4300-98c3-54e58f4e4ce1" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/b52ada07-8f7e-41bc-a9a1-b81e7df276d1" height="80%" width="80%" /> <br /><br /> 
+<img src="https://github.com/user-attachments/assets/75903a41-5247-4eef-969f-878d9f2aa726" height="80%" width="80%" /> <br /><br /> 
+<img src="https://github.com/user-attachments/assets/3b4e2160-e0e8-478a-aa41-95a021f18cf8" height="80%" width="80%" /> <br /><br /> 
+</p>
+<br />
 
 
 
