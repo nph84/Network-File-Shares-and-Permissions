@@ -138,7 +138,8 @@ On the client PC as "dap.deri", we try to access the accountants folder, and it 
 Next, we will make dap.deri a part of the accountant group to grant them access.
 </p> 
 <p>
-<img src="https://github.com/user-attachments/assets/73904d7d-d3fb-4c6e-8bad-7680916f39e8" height="80%" width="80%" /> 
+<img src="https://github.com/user-attachments/assets/73904d7d-d3fb-4c6e-8bad-7680916f39e8" height="80%" width="80%" /> <br /><br /> 
+<img src="https://github.com/user-attachments/assets/4b50a01d-70f4-4c55-be21-0d01be37790c" height="80%" width="80%" /> <br /><br /> 
 </p>
 <br />
 
