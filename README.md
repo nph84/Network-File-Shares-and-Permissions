@@ -111,6 +111,8 @@ Go back to the domain controller. In Active Directory, create a new organization
 <p>
 <img src="https://github.com/user-attachments/assets/15df9cac-93af-4f27-a3b9-8278f5ea67d7" height="80%" width="80%" />
 <img src="https://github.com/user-attachments/assets/ada366b1-f275-48c4-84a6-1086941ef5e3" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/35d490b5-bc11-42ad-a6d8-44d6a40af6d1" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/578ce676-f164-4a81-90f6-424486e2cea1" height="80%" width="80%" />
 </p>
 <br />
 
