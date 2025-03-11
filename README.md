@@ -94,12 +94,6 @@ On client PC navigate to the shared folder.
 
 
 
-
-
-
-
-
-
 **Create an "ACCOUNTANTS" Security Group, assign permissions, and test access**
 
 
