@@ -124,11 +124,23 @@ Folder: “accounting”, Group: “ACCOUNTANTS”, Permissions: “Read/Write�
 
 
 
+<p>
+On the client PC as "dap.deri", we try to access the accountants folder, and it fails.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/4f1021d6-cb48-430b-980d-ec9a99e33abf" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 
-
-
+<p>
+Next, we will make dap.deri a part of the accountant group to grant them access.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/73904d7d-d3fb-4c6e-8bad-7680916f39e8" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 
