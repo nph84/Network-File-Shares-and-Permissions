@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b700cc07-8ba1-4bfb-bd9c-c207d780fc10" height="50%" width="50%"/>
+<img src="https://github.com/user-attachments/assets/a03fa6e8-a8c7-4562-9bc7-c086861405f2" height="40%" width="40%"/>
 </p>
 
 <h1>Network File Shares and Permissions</h1>
