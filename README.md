@@ -85,9 +85,21 @@ Repeat these steps for the subsequent groups, setting the appropriate file permi
 On client PC navigate to the shared folder.
 </p> 
 <p>
-<img src="https://github.com/user-attachments/assets/c99439c7-950f-479f-bdde-a11004418641" height="80%" width="80%" /> 
+<img src="https://github.com/user-attachments/assets/3e97d621-7056-45ba-b72d-1213f8295c6a" height="80%" width="80%" /> 
 </p>
 <br />
+
+
+
+
+<p>
+Try to access the folders you just created. Which folders can you access? Which folders can you create stuff in? Does it make sense?
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/3e97d621-7056-45ba-b72d-1213f8295c6a" height="80%" width="80%" /> 
+</p>
+<br />
+
 
 
 
