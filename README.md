@@ -140,12 +140,21 @@ Next, we will make dap.deri a part of the accountant group to grant them access.
 <p>
 <img src="https://github.com/user-attachments/assets/73904d7d-d3fb-4c6e-8bad-7680916f39e8" height="80%" width="80%" /> <br /><br /> 
 <img src="https://github.com/user-attachments/assets/4b50a01d-70f4-4c55-be21-0d01be37790c" height="80%" width="80%" /> <br /><br /> 
+<img src="https://github.com/user-attachments/assets/41b03566-0c1c-489a-8624-92ed54343374" height="80%" width="80%" /> <br /><br />
+<img src="https://github.com/user-attachments/assets/5ac58261-2f5f-432f-b396-29e1d2f886db" height="80%" width="80%" /> <br /><br />
 </p>
 <br />
 
 
 
 
+<p>
+Now, we must log out of the client PC and log back in for the changes to take place. We now have access to the accounting folder on the domain controller.
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/bda1ac8b-c1d6-4d75-9302-6c5efd1a1090" height="80%" width="80%" /> 
+</p>
+<br />
 
 
 
