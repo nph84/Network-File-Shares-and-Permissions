@@ -103,14 +103,16 @@ Try to access the folders you just created. Which folders can you access? Which 
 
 
 
-
-
-
 **Create an "ACCOUNTANTS" Security Group, assign permissions, and test access**
 
-
-
-
+<p>
+Go back to the domain controller. In Active Directory, create a new organizational unit called "_GROUPS". Inside this new group, create a security group called “ACCOUNTANTS”
+</p> 
+<p>
+<img src="https://github.com/user-attachments/assets/15df9cac-93af-4f27-a3b9-8278f5ea67d7" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/ada366b1-f275-48c4-84a6-1086941ef5e3" height="80%" width="80%" />
+</p>
+<br />
 
 
 
